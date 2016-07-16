@@ -12,5 +12,10 @@
 </head>
 <body>
     <h1>${m1}</h1>
+    <h1>${name}</h1>
+    <h1>${age}</h1>
+    <h1>${p}</h1>
+    <h1>${userName}</h1>
+    <h1>${password}</h1>
 </body>
 </html>
